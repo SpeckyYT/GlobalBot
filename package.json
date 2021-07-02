@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SpeckyYT/GlobalBot/issues"
   },
-  "homepage": "https://github.com/SpeckyYT/GlobalBot#readme"
+  "homepage": "https://github.com/SpeckyYT/GlobalBot#readme",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.fe6cc0c.1625227356"
+  }
 }
